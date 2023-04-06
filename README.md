@@ -3,8 +3,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript shield">
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React shield"/>
-  <img src="https://img.shields.io/badge/DotNet-404D59?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/DotNet-051e34?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/SQL-404D59?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Mysql-07405E?style=for-the-badge&logo=mysql&logoColor=%2361DAFB" alt="Mysql" />
   <img src="https://img.shields.io/badge/Docker-06805A?style=for-the-badge&logo=docker&logoColor=FFCA28" alt="Docker" />  
 </div>
@@ -13,7 +13,7 @@
 
 - 🌱 Eu sou Jucimário estou focado em Desonvolvimento Back-End e com projeção para se tornar Full Stack.
 - 🔭 Sou formado em Enganharia da computação e tenho MBA em Análise de Dados com BI e Big DataMaster...
-- 💬 Meus hobs em horario livre são Violão, Vôlei e trilha.
+- 💬 Meus hobs em horario livre são violão, vôlei e trilha.
 
 ---
 
